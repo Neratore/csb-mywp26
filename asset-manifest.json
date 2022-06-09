@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://neratore.github.io/csb-mywp26/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://neratore.github.io/csb-mywp26/static/js/main.93685d72.chunk.js",
+    "main.js.map": "https://neratore.github.io/csb-mywp26/static/js/main.93685d72.chunk.js.map",
+    "runtime-main.js": "https://neratore.github.io/csb-mywp26/static/js/runtime-main.cd7a5989.js",
+    "runtime-main.js.map": "https://neratore.github.io/csb-mywp26/static/js/runtime-main.cd7a5989.js.map",
+    "static/js/2.bd9553b6.chunk.js": "https://neratore.github.io/csb-mywp26/static/js/2.bd9553b6.chunk.js",
+    "static/js/2.bd9553b6.chunk.js.map": "https://neratore.github.io/csb-mywp26/static/js/2.bd9553b6.chunk.js.map",
+    "index.html": "https://neratore.github.io/csb-mywp26/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://neratore.github.io/csb-mywp26/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.bd9553b6.chunk.js.LICENSE.txt": "https://neratore.github.io/csb-mywp26/static/js/2.bd9553b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd7a5989.js",
+    "static/js/2.bd9553b6.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.93685d72.chunk.js"
+  ]
+}
